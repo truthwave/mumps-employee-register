@@ -1,3 +1,44 @@
+# Employee Information Management App (Overview Only)
+
+---
+
+## 📌 Overview
+
+This project describes a prototype **Employee Information Management App** developed using MUMPS.  
+It was designed as an internal training tool or for use in internal business operations.
+
+---
+
+## ✅ Key Features Implemented
+
+- Register employee data:
+  - Name
+  - Phonetic reading (Furigana)
+  - Date of birth (input in Western calendar, converted to Japanese era notation)
+- Import department/section and job titles from external CSV files
+- Export registered data to CSV files
+- Import and format external CSV data for display
+
+---
+
+## 💡 Highlights
+
+- High-speed data management leveraging MUMPS’s unique data structures
+- Security-conscious design: passwords and sensitive authentication data are **not** handled or stored
+- Future plans considered web integration and potential connectivity with other systems
+
+---
+
+## ❗ Notes
+
+- **This repository does not include the implementation code.**  
+- This README serves only as documentation to record the project’s design and feature outline.
+
+---
+
+> “Harnessing MUMPS for efficient internal data management.”
+
+
 # 社員情報管理アプリ（概要のみ）
 
 ## 📌 概要
