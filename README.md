@@ -2,7 +2,8 @@
   <img width="1536" height="1024" alt="段落テキスト (12)" src="https://github.com/user-attachments/assets/3b97a395-a3a4-49e2-bdb7-529bad89da97" />
 
 </p>
-# 社員情報管理アプリ（概要のみ）
+
+# 社員情報管理アプリ
 
 > 「MUMPS の強みを活かし、高速かつ安全に社員情報を管理するツール」
 
