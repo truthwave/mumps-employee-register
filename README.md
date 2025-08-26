@@ -53,7 +53,7 @@
 
 ## 🧑‍💻 作者
 
-[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+[ともAI便り](https://github.com/TomoAIDayori)
 ▶ AI × 実務効率化 × デザインに関するプロジェクト掲載中
 
 ## お気軽にご連絡ください
