@@ -53,7 +53,7 @@
 
 ## 🧑‍💻 作者
 
-[ともAI便り](https://github.com/TomoAIDayori)
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 ▶ AI × 実務効率化 × デザインに関するプロジェクト掲載中
 
 ## お気軽にご連絡ください
