@@ -3,6 +3,11 @@
 > **Registration: 10 seconds. Search: 0.2 seconds. Output: 1 click.**
 > A roster's value is determined by its speed.
 
+<p align="center">
+<img width="1536" height="1024" alt="秒でわかる社員台帳" src="https://github.com/user-attachments/assets/3e9b837c-9ea5-4244-bc1b-588fa00a0809" />
+
+</p>
+
 ---
 
 ## Experience (Three Key Actions)
