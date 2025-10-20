@@ -4,8 +4,7 @@
 > A roster's value is determined by its speed.
 
 <p align="center">
-<img width="1536" height="1024" alt="秒でわかる社員台帳" src="https://github.com/user-attachments/assets/3e9b837c-9ea5-4244-bc1b-588fa00a0809" />
-
+<img width="1536" height="1024" alt="社員台帳 (2)" src="https://github.com/user-attachments/assets/87aa838f-5c36-4a77-baf6-d85ed7fa40a6" />
 </p>
 
 ---
