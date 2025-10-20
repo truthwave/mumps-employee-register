@@ -4,7 +4,7 @@
 > 台帳は、速さで価値が決まる。
 
 <p align="center">
-<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/3241979f-c163-4029-a0a9-b47de276e43d" />
+<img width="1536" height="1024" alt="社員台帳 (1)" src="https://github.com/user-attachments/assets/540d0508-72cf-4688-a040-27583a6b8128" />
 </p>
 
 ---
